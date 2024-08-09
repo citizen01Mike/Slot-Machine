@@ -1,0 +1,4 @@
+{
+  "rubocop.autocorrect": false,
+  "rubocop.commandPath": "bin/rubocop"
+}

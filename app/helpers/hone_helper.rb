@@ -1,0 +1,2 @@
+module HoneHelper
+end
