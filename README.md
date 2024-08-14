@@ -1,3 +1,3 @@
 # Dockerized Slot Machine App
 
-![Slot Machine] (slots-pic.png)
+![Slot Machine] (app/assets/images/slots-pic.png)
